@@ -14,5 +14,8 @@ The dataset used in this project is the Diabetes dataset, which is a built-in da
 Follow these steps to run the code for this project:
 
 1. **Clone the Repository:**
-```git clone <repository-url>```
+(```git clone https://github.com/MatPizzolo/MSFT-ML-Course.git```)
+
+2. **Create a Virtual Environment:**
+(```gython -m venv venv```)
 
